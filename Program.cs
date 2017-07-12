@@ -296,7 +296,7 @@ namespace ConsoleApplication1
         public class ErrorInfo
         {
             public int ErrorCode { get; set; }
-            public string ErrorMessage { get; set; }
+            public string ErrordddMessage { get; set; }
         }
 
 
