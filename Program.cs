@@ -287,6 +287,9 @@ namespace ConsoleApplication1
             public string Access_Token { get; set; }
             public int Expires_In { get; set; }
             public bool IsSuccess { get; set; }
+            /// <summary>
+            /// aasdfasdfasd
+            /// </summary>
             public ErrorInfo ErrorInfo { get; set; }
 
         }
